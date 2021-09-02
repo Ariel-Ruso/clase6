@@ -1,0 +1,13 @@
+div {
+    background-color: salmon;
+    padding: 3%;
+    width: 25%;
+}
+
+.izq {
+    float: left;
+}
+
+.der {
+    float: right;
+}
